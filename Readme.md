@@ -7,8 +7,11 @@ We can intuitively determine what these four possible phase shifts should be: Fi
 
 ## Input of program:-
 1.length of signal
+
 2.Digital signal
+
 3.Data Rate(in bps)
+
 other factor like carrier frequency and amplitude are hard coded in file
 
 ## Output of program
